@@ -58,7 +58,7 @@ During the analysis of the genomic assembly of *Arabidopsis thaliana*
 (the Kar-1 ecotype genome assembly GCA_036937505.1) using the BUSCO
 tool, the following results were obtained:
 
-1.  Main results:
+1.1.  Main results:
 
 Complete BUSCO genes (C): 99.2%
 
@@ -72,7 +72,7 @@ Missing BUSCO genes (M): 0.6%
 
 Total number of BUSCO groups (n): 1614
 
-2.  Interpretation of the results:
+1.2.  Interpretation of the results:
 
 High percentage of complete BUSCO genes (99.2%): This indicator
 indicates the high completeness and quality of the genomic assembly.
@@ -94,7 +94,7 @@ problems in the genome, which is also a positive indicator.
 This is important for the accuracy of functional annotation, as
 duplicated genes can complicate the interpretation of data.
 
-3.  Assembly statistics:
+1.3.  Assembly statistics:
 
 Number of scaffolds: 5
 
@@ -108,7 +108,7 @@ N50 scaffolds: 25 MB
 
 N50 contigs: 10 MB
 
-4.  Conclusion
+1.4.  Conclusion
 
 BUSCO analysis results demonstrate that the genomic assembly of
 *Arabidopsis thaliana* (GCA_036937505.1) It has high quality and
