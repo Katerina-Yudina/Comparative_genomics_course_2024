@@ -177,6 +177,7 @@ Substitution: Phenylalanine (F) for Tyrosine (Y)
 Polarity: Both are aromatic, but tyrosine is more polar.
 SIFT: deleterious(0.02)
 Interpretation: Substitution may affect interaction with other molecules due to a change in polarity, SIFT indicates a possible negative effect.
+
 3.  **Discussion**
 We have identified the SNP that causes amino acid substitution in the FRI gene. This SNP is located in the coding region of the gene and leads to the replacement of phenylalanine with tyrosine.
 Using SIFT allowed us to evaluate the possible effect of this substitution on protein function. A SIFT value of 0.02 indicates a potential negative impact, which makes this SNP interesting for further study. Genes such as FRI play a role in regulating flowering time in plants. Changes in their sequence can lead to significant phenotypic changes, which is important for adaptation and evolution.
