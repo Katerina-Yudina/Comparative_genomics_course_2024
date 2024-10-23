@@ -170,6 +170,7 @@ are presented in the list below:
 | CP002686.1:500602-500602   | A      | missense_variant | MODERATE | TBL20   | AT3G02440 | Transcript   | AT3G02440.1 | protein_coding | 3/3  | -      | -     | 13551 | 355452        | C/F         | tGt/tTt          | ENSVATH00302265 | CC/A   | -1                 | -          | EntrezGene      | deleterious(0) | -        | -       |
 | CP002686.1:500602-500602   | A      | missense_variant | MODERATE | TBL20   | AT3G02440 | Transcript   | AT3G02440.2 | protein_coding | 3/3  | -      | -     | 13831 | 379460        | C/F         | tGt/tTt          | ENSVATH00302265 | CC/A   | -1                 | -          | EntrezGene      | deleterious(0) | -        | -       |
 | CP002687.1:269189-269189   | A      | missense_variant | MODERATE | FRI     | AT4G00650 | Transcript   | AT4G00650.1 | protein_coding | 1/3  | -      | -     | 28916 | 455          | F/Y         | tTt/tAt          | ENSVATH10471557 | TT/A   | -1                 | -          | EntrezGene      | deleterious(0.02) | -        | -       |
+
 The mutation for the FRI gene was found in the polarity change:
 FRI (F/Y)
 Substitution: Phenylalanine (F) for Tyrosine (Y)
