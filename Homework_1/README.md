@@ -170,3 +170,16 @@ are presented in the list below:
 | CP002686.1:500602-500602   | A      | missense_variant | MODERATE | TBL20   | AT3G02440 | Transcript   | AT3G02440.1 | protein_coding | 3/3  | -      | -     | 13551 | 355452        | C/F         | tGt/tTt          | ENSVATH00302265 | CC/A   | -1                 | -          | EntrezGene      | deleterious(0) | -        | -       |
 | CP002686.1:500602-500602   | A      | missense_variant | MODERATE | TBL20   | AT3G02440 | Transcript   | AT3G02440.2 | protein_coding | 3/3  | -      | -     | 13831 | 379460        | C/F         | tGt/tTt          | ENSVATH00302265 | CC/A   | -1                 | -          | EntrezGene      | deleterious(0) | -        | -       |
 | CP002687.1:269189-269189   | A      | missense_variant | MODERATE | FRI     | AT4G00650 | Transcript   | AT4G00650.1 | protein_coding | 1/3  | -      | -     | 28916 | 455          | F/Y         | tTt/tAt          | ENSVATH10471557 | TT/A   | -1                 | -          | EntrezGene      | deleterious(0.02) | -        | -       |
+The mutation for the FRI gene was found in the polarity change:
+FRI (F/Y)
+Substitution: Phenylalanine (F) for Tyrosine (Y)
+Polarity: Both are aromatic, but tyrosine is more polar.
+SIFT: deleterious(0.02)
+Interpretation: Substitution may affect interaction with other molecules due to a change in polarity, SIFT indicates a possible negative effect.
+3.  **Discussion**
+We have identified the SNP that causes amino acid substitution in the FRI gene. This SNP is located in the coding region of the gene and leads to the replacement of phenylalanine with tyrosine.
+Using SIFT allowed us to evaluate the possible effect of this substitution on protein function. A SIFT value of 0.02 indicates a potential negative impact, which makes this SNP interesting for further study. Genes such as FRI play a role in regulating flowering time in plants. Changes in their sequence can lead to significant phenotypic changes, which is important for adaptation and evolution.
+After analyzing two protein configurations using AlphaFold (a protein variant from the reference and from the genome under study), there were no striking differences between the protein configurations (at least visually detectable). I put forward my hypothesis that this mutation did not significantly affect the phenotypic differences. But AlphaFold is not sure about its protein configuration either, because it gave me little confidence in its decision. I enclose the results of the configuration of this protein from the reference and the studied sequence, respectively:
+![image](https://github.com/user-attachments/assets/34296f18-49ab-4a4f-882e-81eb82f6ebcd)
+![image](https://github.com/user-attachments/assets/96741224-ee89-4ff8-899f-9b4a93a1e974)
+
