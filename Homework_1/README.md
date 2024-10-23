@@ -134,85 +134,22 @@ changes in protein structure, stability, or interactions with other
 molecules) we got the number of missense mutations was 17, all of them
 are presented in the list below:
 
-#Uploaded_variation Location Allele Consequence IMPACT SYMBOL Gene
-Feature_type Feature BIOTYPE EXON INTRON HGVSc HGVSp cDNA_position
-CDS_position Protein_position Amino_acids Codons Existing_variation
-REF_ALLELE UPLOADED_ALLELE DISTANCE STRAND FLAGS SYMBOL_SOURCE HGNC_ID
-SIFT CLIN_SIG SOMATIC PHENO
-
-. CP002684.1:27000454-27000454 A missense_variant MODERATE CSTF64
-AT1G71800 Transcript AT1G71800.1 protein_coding 5/11 - - - 684 452 151
-G/D gGt/gAt ENSVATH00137905 G G/A - 1 - EntrezGene -
-deleterious(0.01) - - -
-
-. CP002684.1:29040967-29040967 A missense_variant MODERATE EFS AT1G77300
-Transcript AT1G77300.2 protein_coding 17/17 - - - 4610 4475 1492 A/V
-gCa/gTa ENSVATH00145915 G G/A - -1 - EntrezGene -
-deleterious_low_confidence(0.01) - - -
-
-. CP002684.1:29047745-29047745 G missense_variant MODERATE EFS AT1G77300
-Transcript AT1G77300.1 protein_coding 2/18 - - - 1353 1066 356 G/R
-Ggt/Cgt ENSVATH00145945 C C/G - -1 - EntrezGene -
-deleterious_low_confidence(0.02) - - -
-
-. CP002684.1:29047745-29047745 G missense_variant MODERATE EFS AT1G77300
-Transcript AT1G77300.2 protein_coding 2/17 - - - 1201 1066 356 G/R
-Ggt/Cgt ENSVATH00145945 C C/G - -1 - EntrezGene -
-deleterious_low_confidence(0.01) - - -
-
-. CP002685.1:6190124-6190124 G missense_variant MODERATE TBL13 AT2G14530
-Transcript AT2G14530.1 protein_coding 6/6 - - - 1339 1226 409 I/S
-aTc/aGc ENSVATH00228698 T T/G - 1 - EntrezGene - deleterious(0) - - -
-
-. CP002685.1:15819995-15819995 C missense_variant MODERATE TBL15
-AT2G37720 Transcript AT2G37720.1 protein_coding 3/3 - - - 225 225 75 L/F
-ttG/ttC ENSVATH00263752 G G/C - 1 - EntrezGene -
-deleterious_low_confidence(0.03) - - -
-
-. CP002685.1:16840717-16840717 C missense_variant MODERATE TBL33
-AT2G40320 Transcript AT2G40320.1 protein_coding 2/6 - - - 539 290 97 L/P
-cTg/cCg ENSVATH01972775 T T/C - 1 - EntrezGene - deleterious(0.01) - - -
-
-. CP002686.1:500602-500602 A missense_variant MODERATE TBL20 AT3G02440
-Transcript AT3G02440.1 protein_coding 3/3 - - - 1355 1355 452 C/F
-tGt/tTt ENSVATH00302265 C C/A - -1 - EntrezGene - deleterious(0) - - -
-
-. CP002686.1:500602-500602 A missense_variant MODERATE TBL20 AT3G02440
-Transcript AT3G02440.2 protein_coding 3/3 - - - 1383 1379 460 C/F
-tGt/tTt ENSVATH00302265 C C/A - -1 - EntrezGene - deleterious(0) - - -
-
-. CP002686.1:1835566-1835566 A missense_variant MODERATE TBL10 AT3G06080
-Transcript AT3G06080.1 protein_coding 3/3 - - - 1401 937 313 T/S Acc/Tcc
-ENSVATH00308697 T T/A - -1 - EntrezGene - deleterious(0.01) - - -
-
-. CP002686.1:1835566-1835566 A missense_variant MODERATE TBL10 AT3G06080
-Transcript AT3G06080.2 protein_coding 3/4 - - - 1401 937 313 T/S Acc/Tcc
-ENSVATH00308697 T T/A - -1 - EntrezGene - deleterious(0.02) - - -
-
-. CP002686.1:3459029-3459029 T missense_variant MODERATE TBL32 AT3G11030
-Transcript AT3G11030.1 protein_coding 1/5 - - - 352 272 91 S/Y tCt/tAt
-ENSVATH05807538 G G/T - -1 - EntrezGene - deleterious(0.04) - - -
-
-. CP002687.1:269189-269189 A missense_variant MODERATE FRI AT4G00650
-Transcript AT4G00650.1 protein_coding 1/3 - - - 289 164 55 F/Y tTt/tAt
-ENSVATH10471557 T T/A - 1 - EntrezGene - deleterious(0.02) - - -
-
-. CP002687.1:467605-467605 A missense_variant MODERATE TBL26 AT4G01080
-Transcript AT4G01080.1 protein_coding 2/3 - - - 473 454 152 L/F Ctt/Ttt
-ENSVATH00450986 G G/A - -1 - EntrezGene - deleterious(0.01) - - -
-
-. CP002687.1:6764891-6764891 C missense_variant MODERATE TBL23 AT4G11090
-Transcript AT4G11090.1 protein_coding 3/3 - - - 1161 1053 351 N/K
-aaT/aaG ENSVATH00489181 A A/C - -1 - EntrezGene - deleterious(0.02) - -
--
-
-. CP002688.1:35463-35463 G missense_variant MODERATE FRB1 AT5G01100
-Transcript AT5G01100.1 protein_coding 7/8 - - - 1633 1390 464 I/L
-Atc/Ctc ENSVATH06900697 T T/G - -1 - EntrezGene - deleterious(0.02) - -
--
-
-. CP002688.1:20975851-20975851 A missense_variant MODERATE YLS7
-AT5G51640 Transcript AT5G51640.1 protein_coding 4/4 - - - 1202 1056 352
-K/N aaA/aaT ENSVATH00727220 T T/A - -1 - EntrezGene -
-deleterious(0.03) - - -
-
+| Uploaded_variation | Location          | Allele | Consequence      | IMPACT   | SYMBOL | Gene     | Feature_type | Feature     | BIOTYPE       | EXON | INTRON | HGVSc | HGVSp | cDNA_position | CDS_position | Protein_position | Amino_acids | Codons | Existing_variation | REF_ALLELE | UPLOADED_ALLELE | DISTANCE | STRAND | FLAGS | SYMBOL_SOURCE | HGNC_ID | SIFT                      | CLIN_SIG | SOMATIC | PHENO |
+|--------------------|-------------------|--------|------------------|----------|--------|----------|--------------|-------------|---------------|------|--------|-------|-------|---------------|--------------|------------------|-------------|--------|-------------------|------------|-----------------|----------|--------|-------|---------------|---------|--------------------------|----------|---------|-------|
+| .                  | CP002684.1:27000454-27000454 | A      | missense_variant | MODERATE | CSTF64  | AT1G71800 | Transcript   | AT1G71800.1 | protein_coding | 5/11 | -      | -     | -     | 684           | 452          | 151              | G/D         | gGt/gAt | ENSVATH00137905   | G          | G/A             | -        | 1      | -     | EntrezGene    | -       | deleterious(0.01)        | -        | -       | -     |
+| .                  | CP002684.1:29040967-29040967 | A      | missense_variant | MODERATE | EFS     | AT1G77300 | Transcript   | AT1G77300.2 | protein_coding | 17/17 | -      | -     | -     | 4610          | 4475         | 1492             | A/V         | gCa/gTa | ENSVATH00145915   | G          | G/A             | -        | -1     | -     | EntrezGene    | -       | deleterious_low_confidence(0.01) | -        | -       | -     |
+| .                  | CP002684.1:29047745-29047745 | G      | missense_variant | MODERATE | EFS     | AT1G77300 | Transcript   | AT1G77300.1 | protein_coding | 2/18  | -      | -     | -     | 1353          | 1066         | 356              | G/R         | Ggt/Cgt | ENSVATH00145945   | C          | C/G             | -        | -1     | -     | EntrezGene    | -       | deleterious_low_confidence(0.02) | -        | -       | -     |
+| .                  | CP002684.1:29047745-29047745 | G      | missense_variant | MODERATE | EFS     | AT1G77300 | Transcript   | AT1G77300.2 | protein_coding | 2/17  | -      | -     | -     | 1201          | 1066         | 356              | G/R         | Ggt/Cgt | ENSVATH00145945   | C          | C/G             | -        | -1     | -     | EntrezGene    | -       | deleterious_low_confidence(0.01) | -        | -       | -     |
+| .                  | CP002685.1:6190124-6190124   | G      | missense_variant | MODERATE | TBL13   | AT2G14530 | Transcript   | AT2G14530.1 | protein_coding | 6/6   | -      | -     | -     | 1339          | 1226         | 409              | I/S         | aTc/aGc | ENSVATH00228698   | T          | T/G             | -        | 1      | -     | EntrezGene    | -       | deleterious(0)           | -        | -       | -     |
+| .                  | CP002685.1:15819995-15819995 | C      | missense_variant | MODERATE | TBL15   | AT2G37720 | Transcript   | AT2G37720.1 | protein_coding | 3/3   | -      | -     | -     | 225           | 225          | 75               | L/F         | ttG/ttC | ENSVATH00263752   | G          | G/C             | -        | 1      | -     | EntrezGene    | -       | deleterious_low_confidence(0.03) | -        | -       | -     |
+| .                  | CP002685.1:16840717-16840717 | C      | missense_variant | MODERATE | TBL33   | AT2G40320 | Transcript   | AT2G40320.1 | protein_coding | 2/6   | -      | -     | -     | 539           | 290          | 97               | L/P         | cTg/cCg | ENSVATH01972775   | T          | T/C             | -        | 1      | -     | EntrezGene    | -       | deleterious(0.01)        | -        | -       | -     |
+| .                  | CP002686.1:500602-500602     | A      | missense_variant | MODERATE | TBL20   | AT3G02440 | Transcript   | AT3G02440.1 | protein_coding | 3/3   | -      | -     | -     | 1355          | 1355         | 452              | C/F         | tGt/tTt | ENSVATH00302265   | C          | C/A             | -        | -1     | -     | EntrezGene    | -       | deleterious(0)           | -        | -       | -     |
+| .                  | CP002686.1:500602-500602     | A      | missense_variant | MODERATE | TBL20   | AT3G02440 | Transcript   | AT3G02440.2 | protein_coding | 3/3   | -      | -     | -     | 1383          | 1379         | 460              | C/F         | tGt/tTt | ENSVATH00302265   | C          | C/A             | -        | -1     | -     | EntrezGene    | -       | deleterious(0)           | -        | -       | -     |
+| .                  | CP002686.1:1835566-1835566   | A      | missense_variant | MODERATE | TBL10   | AT3G06080 | Transcript   | AT3G06080.1 | protein_coding | 3/3   | -      | -     | -     | 1401          | 937          | 313              | T/S         | Acc/Tcc | ENSVATH00308697   | T          | T/A             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.01)        | -        | -       | -     |
+| .                  | CP002686.1:1835566-1835566   | A      | missense_variant | MODERATE | TBL10   | AT3G06080 | Transcript   | AT3G06080.2 | protein_coding | 3/4   | -      | -     | -     | 1401          | 937          | 313              | T/S         | Acc/Tcc | ENSVATH00308697   | T          | T/A             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.02)        | -        | -       | -     |
+| .                  | CP002686.1:3459029-3459029   | T      | missense_variant | MODERATE | TBL32   | AT3G11030 | Transcript   | AT3G11030.1 | protein_coding | 1/5   | -      | -     | -     | 352           | 272          | 91               | S/Y         | tCt/tAt | ENSVATH05807538   | G          | G/T             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.04)        | -        | -       | -     |
+| .                  | CP002687.1:269189-269189     | A      | missense_variant | MODERATE | FRI     | AT4G00650 | Transcript   | AT4G00650.1 | protein_coding | 1/3   | -      | -     | -     | 289           | 164          | 55               | F/Y         | tTt/tAt | ENSVATH10471557   | T          | T/A             | -        | 1      | -     | EntrezGene    | -       | deleterious(0.02)        | -        | -       | -     |
+| .                  | CP002687.1:467605-467605     | A      | missense_variant | MODERATE | TBL26   | AT4G01080 | Transcript   | AT4G01080.1 | protein_coding | 2/3   | -      | -     | -     | 473           | 454          | 152              | L/F         | Ctt/Ttt | ENSVATH00450986   | G          | G/A             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.01)        | -        | -       | -     |
+| .                  | CP002687.1:6764891-6764891   | C      | missense_variant | MODERATE | TBL23   | AT4G11090 | Transcript   | AT4G11090.1 | protein_coding | 3/3   | -      | -     | -     | 1161          | 1053         | 351              | N/K         | aaT/aaG | ENSVATH00489181   | A          | A/C             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.02)        | -        | -       | -     |
+| .                  | CP002688.1:35463-35463       | G      | missense_variant | MODERATE | FRB1    | AT5G01100 | Transcript   | AT5G01100.1 | protein_coding | 7/8   | -      | -     | -     | 1633          | 1390         | 464              | I/L         | Atc/Ctc | ENSVATH06900697   | T          | T/G             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.02)        | -        | -       | -     |
+| .                  | CP002688.1:20975851-20975851 | A      | missense_variant | MODERATE | YLS7    | AT5G51640 | Transcript   | AT5G51640.1 | protein_coding | 4/4   | -      | -     | -     | 1202          | 1056         | 352              | K/N         | aaA/aaT | ENSVATH00727220   | T          | T/A             | -        | -1     | -     | EntrezGene    | -       | deleterious(0.03)        | -        | -       | -     |
